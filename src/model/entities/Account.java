@@ -1,6 +1,6 @@
 package model.entities;
 
-import model.exceotions.BussinessException;
+import model.exceptions.BussinessException;
 
 public class Account {
 

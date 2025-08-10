@@ -1,4 +1,4 @@
-package model.exceotions;
+package model.exceptions;
 
 public class BussinessException extends RuntimeException{
 
